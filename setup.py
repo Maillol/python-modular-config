@@ -16,7 +16,7 @@ setuptools.setup(
     description='A modular python configuration utility',
     long_description=readme(),
     long_description_content_type='text/markdown',
-    url='http://github.com/mikonse/modular_conf',
+    url='https://github.com/mikonse/python-modular-config',
     packages=setuptools.find_packages(),
     include_package_data=True,
     license='MIT',
